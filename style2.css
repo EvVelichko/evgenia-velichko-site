@@ -11,3 +11,10 @@ html, body {
 	width: 100%;
 	height: 100%;
 }
+
+@media (max-width:640px) {
+  .table {
+    flex-wrap: wrap;
+    height:100%;
+    weight: auto;
+  }
