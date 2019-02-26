@@ -11,8 +11,12 @@ display: flex;}
 @media (max-width:640px) {
   .table {
     flex-wrap: wrap;
+    height:100%;
+    weight: auto;
   }
   .hide {
     display: none;
+
+
 
   }
