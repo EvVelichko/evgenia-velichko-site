@@ -1,0 +1,18 @@
+td:hover {
+    background: yellow;
+}
+td:hover {
+    background: yellow;
+}
+body {text-decoration: none;}
+}
+.box {
+display: flex;}
+@media (max-width:640px) {
+  .table {
+    flex-wrap: wrap;
+  }
+  .hide {
+    display: none;
+
+  }
