@@ -2,6 +2,9 @@
 /* CSS Document */
 
 
+td:hover {
+    background: #CCCCCC;}
+
 html, body {
 	width: 100%;
 	height: 100%;
