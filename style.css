@@ -1,7 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
 
 td:hover {
-    background: #CCCCCC;
-}
+    background: #CCCCCC;}
 
 html, body {
 	width: 100%;
